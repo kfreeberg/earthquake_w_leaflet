@@ -1,1 +1,1 @@
-# earthquake_w_leaflet
+# Unit 17 Earthquake visualization with Leaflet
